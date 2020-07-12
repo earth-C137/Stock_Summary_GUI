@@ -20,7 +20,7 @@ Acknowledgment: Ran Aroussi, the creator of yfinance.  Without that module,
 this wouldn't be possible.
 
 ##License
-
+Apache-2.0
 ##Project Status
 Static.  Unlikely I will be able to maintain or improve.  Do what you want with
 it.  However, it doesn't hurt to ask me to update or improve a feature.
