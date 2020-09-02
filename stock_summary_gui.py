@@ -83,7 +83,7 @@ class PackAndSend():
         self.ticker = ticker
         self.yf_object = GetData(self.ticker)
 
-    #Doesn't really fit here, but I'm lazy.
+    #Doesn't really fit great here, but it's gotta go somewhere.
     def yahoo_finance_summary(self):
         webpage = (
             "https://finance.yahoo.com/quote/{}?p={}&.tsrc=fin-srch"
